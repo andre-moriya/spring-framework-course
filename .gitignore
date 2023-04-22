@@ -1,0 +1,10 @@
+# VScode extensions
+.lh
+
+# Maven folders
+target
+
+# Eclipse IDE files and folders
+.settings
+.project
+.classpath
