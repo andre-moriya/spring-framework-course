@@ -8,3 +8,6 @@ target
 .settings
 .project
 .classpath
+
+# IntelliJ IDE files and folders
+.idea
